@@ -1,6 +1,6 @@
-# Complex spatial and temporal organization of functional brain networks: A cybernetic framework for brain-behavior associations
+# Complex spatial and temporal organization of functional brain networks
 
-This repository contains scripts used to perform data cleaning, group-level analyses, and plotting accompanying the manuscript "Complex spatial and temporal organization of functional brain networks: A cybernetic framework for brain-behavior associations," available as a [preprint](arxiv-link-here).
+This repository contains scripts used to perform data cleaning, group-level analyses, and plotting accompanying the manuscript "Complex spatial and temporal organization of functional brain networks," available as a [preprint](arxiv-link-here).
 
 ![Analysis pipeline using complex system methods to test functional properties across networks and timescales](images/fig1_analysis.png)
 
